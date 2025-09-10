@@ -18,4 +18,4 @@
  
  10)hisory           to check command history
  
- 11)ls               list
+
