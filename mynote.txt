@@ -19,7 +19,3 @@
  10)hisory           to check command history
  
  11)ls               list
-
- 12 git branch ls
- 
- 13 git checkout -b descriptiv
