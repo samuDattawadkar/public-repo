@@ -1,0 +1,12 @@
+ 1 touch app.txt      to crate a file
+
+ 2 vi app.txt         to create a file
+
+ 3 : wq               it is used to exit in vi
+
+ 4 git clone<repo url>   it s used to create a copy of an existing git repository
+ 
+ 5 git push           it is used to push the changes from local repository to remote repositary
+
+
+
