@@ -1,0 +1,23 @@
+ 1 touch app.txt      to crate a file
+
+ 2 vi app.txt         to create a file
+
+ 3 : wq               it is used to exit in vi
+
+ 4 git clone<repo url>   it s used to create a copy of an existing git repository
+ 
+ 5 git push           it is used to push the changes from local repository to remote repositary
+
+ 6 git status         it is used to display the current status
+
+ 7 git add.           to add all changes 
+
+ 8 git commit -m "message"    records the changesin the repository with descriptiv message
+
+ 9 code .            it is used to open vs code
+ 
+ 10 hisory           to check command history
+ 
+ 11 ls               list
+
+ 12 git branch       -b branch_name
